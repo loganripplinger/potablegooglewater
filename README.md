@@ -1,4 +1,4 @@
-# Google Fusion tables were announced to be depreciated Dec 3, 2019. This was written in April of 2018. It is provided here as reference code
+Google Fusion tables was announced to be depreciated Dec 3, 2019. This code was written in April of 2018. It is provided here as reference code.
 
 # Reddit Front Page Data Miner
 
