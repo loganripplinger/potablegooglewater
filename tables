@@ -1,0 +1,1 @@
+CREATE TABLE posts (integer id, text url, integer created, integer discovered, integer lastseen)
